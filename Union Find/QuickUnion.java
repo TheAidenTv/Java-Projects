@@ -40,14 +40,6 @@ public class QuickUnion
         id[root(p)] = id[root(q)];
     }
     
-    
-    
-    
-    
-    
-    
-    
-    
     /**
      * A method that checks if two elements are connected
      * by seeing if they share the same root
