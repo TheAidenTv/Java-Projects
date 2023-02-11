@@ -10,6 +10,6 @@ An algorithm that uses an array to store the parent of each element and performs
 
 An algorithm that improves on the Quick Union algorithm by keeping track of the size of each tree and always attaching the smaller tree to the larger one.
 
-# Weighted Quick Union
+# Weighted Quick Union with Path Compression
 
 An algorithm that improves on the Weighted Quick Union algorithm by compressing the paths between nodes and the root during find operations. This reduces the depth of the tree and improves performance. My implementation only needs 1 extra line of code and yet drastically improves the overall performance so there's really no reason not to do this.
