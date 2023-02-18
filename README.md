@@ -9,3 +9,8 @@ I have coded 4 of the most common solutions or algorithms for solving this probl
 - [Quick Union](https://github.com/TheAidenTv/Java-Projects/blob/main/Union%20Find/QuickUnion.java)
 - [Weighted Quick Union](https://github.com/TheAidenTv/Java-Projects/blob/main/Union%20Find/WeightedQuickUnion.java)
 - [Weighted Quick Union w/ Path Compression](https://github.com/TheAidenTv/Java-Projects/blob/main/Union%20Find/WeightedQuickUnionPathCompression.java)
+
+## [Sorting Algorithms](https://github.com/TheAidenTv/Java-Projects/tree/main/Sorting%20Algorithms)
+
+Sorting algorithms are a fundamental concept in computer science and are used to arrange a collection of elements in a specific order. There are many different sorting algorithms that you can use although some have a higher complexity than others. Below is a list of some of the most common sorting algorithms:
+- [Bubble Sort](https://github.com/TheAidenTv/Java-Projects/tree/main/Sorting%20Algorithms/BubbleSort.java)
