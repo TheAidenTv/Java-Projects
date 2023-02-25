@@ -1,6 +1,6 @@
 # Sorting Algorithms
 
-# Algorithms
+## Algorithms
 [Bubble Sort](BubbleSort.java)
 
 ## Complexity
